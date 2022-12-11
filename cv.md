@@ -3,12 +3,12 @@
 ---
 * Location: Irkutsk, Russia     
 * E-mail: Alworker@list.ru  
-* Discord: awdart#3772  
+* Discord: Awdart#3772  
 ### About me:
 ---
 I want to become a web developer. I read a lot. I study English. My goal is to become a professional in a new profession.  
 ### Skills:
----
+***
 I don't have web development skills yet.  
 ### Code examplе:
 ---
