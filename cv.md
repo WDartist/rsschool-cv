@@ -9,7 +9,7 @@
 I want to become a web developer. I read a lot. I study English. My goal is to become a professional in a new profession.  
 ### Skills:
 ---
-I don't have web development skills yet  
+I don't have web development skills yet.  
 ### Code examplе:
 ---
 ```
@@ -20,7 +20,7 @@ alert(message);
 ```  
 ### Work experience:
 ---
-no experience in IT  
+no experience in IT.  
 ### Education and courses:
 ---
 Higher technical education.  
